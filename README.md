@@ -52,4 +52,4 @@ printf("enter gst percent ");
 scanf("%d",&a[i].gst);
 }
 
-}
+}.
